@@ -1,0 +1,3 @@
+rootProject.name = 'BaiTapCuoiSprint2'
+
+include ':app'
